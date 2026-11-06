@@ -1,0 +1,6 @@
+# The Rider's Passport - Robots.txt
+User-agent: *
+Allow: /
+
+# Permanent educational atlas content
+Sitemap: /sitemap.xml
